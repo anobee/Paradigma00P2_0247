@@ -33,5 +33,11 @@ class pelajar : public orang {
 };
 
 class budi : public pekerja , public pelajar {
-   
-}
+   public :
+   budi (int pumur) :
+   pekerja (pumur),
+   pelajar (pumur)
+   {
+      cout << "Budi dibuat \n" << endl;
+   }
+};
