@@ -21,3 +21,4 @@ int main () {
 
     return 0;
 }
+// ga bisa karna ada final di class baseclass maka dari itu fungsi pada baseclass tidak dapat di panggil
