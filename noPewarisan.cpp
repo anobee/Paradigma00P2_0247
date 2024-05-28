@@ -19,5 +19,5 @@ int main () {
     derivedclass a;
     a. perkenalan ();
 
-    return 0
+    return 0;
 }
