@@ -9,7 +9,7 @@ class orang {
      umur (pumur)
 
      {
-        cout << "orag dibuat dengan umur" << "\n" << endl;
+        cout << "orang dibuat dengan umur" << "\n" << endl;
      }
 };
 
