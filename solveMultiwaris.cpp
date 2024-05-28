@@ -18,6 +18,6 @@ class pekerja : public orang {
    pekerja (int pumur) :
     orang (pumur) 
     {
-      cout 
+      cout << "pekerja dibuat \n" << endl;
     }
-}
+};
